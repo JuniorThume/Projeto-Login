@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 1200px) and (orientation: landscape) {
+@media screen and (max-width: 1400px) and (orientation: landscape) {
     section#login {
         width: 80vw;
         height: 70vh;
